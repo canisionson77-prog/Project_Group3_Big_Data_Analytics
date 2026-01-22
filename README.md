@@ -9,8 +9,8 @@ The project was completed as part of the **Big Data Analytics** course at the **
 
 ## 🎓 Course Information
 - **Course Name:** Big Data Analytics  
-- **Course Code:** MSDA9296  
-- **Lecturer:** Temithope Oguntade  
+- **Course Code:** MSDA9215  
+- **Lecturer:** Temitope Oguntade  
 - **Institution:** Adventist University of Central Africa (AUCA)
 
 ---
@@ -19,8 +19,8 @@ The project was completed as part of the **Big Data Analytics** course at the **
 | Name | Registration Number |
 |-----|---------------------|
 | RUSINGIZWA Jean Pierre | 101086 |
-| BWENGE Olivier | 1010.. |
-| UMUTONI Carine | 1010.. |
+| AKIRI Olivier | 101062 |
+| UWASE Carine | 101030 |
 
 ---
 
@@ -66,4 +66,3 @@ Euclidean distance between intersections is used as the edge weight.
 
 ---
 
-## 📁 Repository Structure
